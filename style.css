@@ -22,6 +22,16 @@ body {
     margin: 16px;
 }
 
+.card {
+    display: flex;
+    align-items: flex-start;
+ 
+}
+
+.card__picture {
+    margin-right: 32px;
+}
+
 .card__info {
     margin-bottom: 24px;
 
